@@ -12,14 +12,14 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "손 Shibai Bot ʚĭɞ",
-	"prefix": "#",
+	"nickNameBot": "۩۞۩Jaden Bot۩۞۩",
+	"prefix": "🤧",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-       "61561751986955"
+       "100090165874756"
 ],
 
 	"whiteListMode": {
